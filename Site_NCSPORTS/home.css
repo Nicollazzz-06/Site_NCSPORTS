@@ -1,0 +1,282 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+body{
+background-color: #09041E;
+font-family: 'Roboto', sans-serif}
+
+* {
+    
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    background-color: white;
+}
+
+#LOGOOO{
+    margin-left: 100px;
+    width: 200px;
+}
+
+#opcoes ul li a{
+list-style: none;
+text-decoration: none;
+}
+
+
+#opcoes ul li {
+ list-style: none;
+ text-decoration: none;
+}
+    
+
+#opcoes ul{
+font-size: 1.2em;
+font-weight: 700;
+margin-top: 40px;
+display: flex;
+gap: 5em;
+}
+
+#menuimg {
+    margin-right: 70px;
+    display: flex;
+    gap: 2em;
+}
+
+#menuimg img{
+    
+    width: 2em;
+
+}
+
+#user{
+    width: 2.5em!important;
+}
+
+#pilotos{
+    display: flex;
+    gap: 1.3em ;
+    justify-content: center;
+    margin-top: 50px ;
+}
+
+#destaqueaaa h1{
+    margin-top: 23px;
+}
+
+.P1{
+border-radius: 5px;
+height: 700px;
+filter: brightness(50%);
+width: 24%;
+transition: .2s all ease-in-out;
+}
+
+.P1:hover{
+filter: brightness(1);
+}
+
+body{
+    background-color:#030414;
+}
+
+#destaque{
+    margin-left: 20px;
+    color: white;
+}
+
+#home_motos{
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
+.mostruario{
+    transition: .2s all ease-in-out;
+}
+
+#home_motos img{
+width: 250px;
+transition: 0.2s;
+}
+
+#home_motos img:hover{
+    transform: scale(1.05);
+}
+
+#P2 img{
+position: relative;
+width: 114em;
+margin-top: 80px;
+margin-left: 38px;
+}
+
+#P2 h1{
+    color: white;
+    font-size: 64px;
+    position: absolute;
+    top: 300px;
+    left: 100px;
+}
+
+#P2 p{
+    font-size: large;
+    color: white;
+    position: absolute;
+    font-size: 24px;
+    top: 470px;
+    left: 100px;
+}
+
+#New{
+    position: relative;
+    margin-left: 39px;
+    margin-top: 150px;
+    background-color: #5F5F5F;
+    width: 114em;
+    height: 245px;
+}
+
+#New h2{
+color: white;
+padding-top: 1em;
+margin-left: 240px;}
+
+
+#New img{
+    margin-bottom: 100px;
+    margin-left: 84em;
+}
+
+#New h2{
+    bottom: 6em;
+    position: absolute;
+}
+
+#duc{
+top: 4em;
+}
+
+#btn{
+    
+    background-color: red;
+}
+
+#riders img{
+    position: relative;
+    width: 1800px;
+    margin-top: 200px;
+    margin-left: 50px;
+}
+
+#riders h1{ 
+  position: absolute;
+  top: 22.4em;
+  left: 100px;
+  color: white;
+  font-size: 64px;
+}
+
+
+#submenu{
+    width: 100%;
+    background-color: white;
+}
+
+footer{
+    background-color: white;
+    height: 48vh;
+    margin-top: 100px;
+}
+
+.submenu{
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+}
+
+#tic{
+width:1047px;
+top: 40px;
+left: 300px;
+position: relative;
+background-color: rgb(255, 255, 255);
+}
+
+
+
+#tic img{
+    width: 291px;
+}
+
+#tic h3{
+    color: black;
+    margin-left: 20px ;
+}
+
+#fupfup img{
+    width: 35px;
+}
+
+#tiktik img{
+    width: 50px;
+}
+
+#tuktuk img{
+    width: 50px;
+
+}
+
+#tds{
+    width: 100px;
+    margin-top: 10px;
+    margin-left: 30px;
+    display: flex;
+}
+
+#detalhes {
+    margin-top: -205px;
+    margin-left: 32em;
+    display: grid;
+    grid-template-columns: 1fr 1fr ;
+   
+}
+
+#detalhes h3{  
+    margin-top: 8px;
+}
+
+
+#ibama{
+    margin-top: 200px;
+    background-color: #D9D9D9;
+    width: 100%;
+    height: 3.9em;
+}
+
+#ibama img{
+    margin-top: 5px;
+    margin-left: 60px;
+    width: 50px;
+}
+
+#ibama h3{
+    margin-left: 150px;
+    margin-top: -30px;
+}
+
+#Termos{
+    margin-left: 64em;
+    display: flex;
+}
+
+
+
+
+
+

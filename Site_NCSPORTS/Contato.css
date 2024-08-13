@@ -1,0 +1,219 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+body{
+background-color: #d3d3d3;
+font-family: 'Roboto', sans-serif}
+
+* {
+    
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    background-color: white;
+}
+
+#LOGOOO{
+    margin-left: 100px;
+    width: 200px;
+}
+
+#opcoes ul li a{
+list-style: none;
+text-decoration: none;
+}
+
+
+#opcoes ul li {
+ list-style: none;
+ text-decoration: none;
+}
+    
+
+#opcoes ul{
+font-size: 1.2em;
+font-weight: 700;
+margin-top: 40px;
+display: flex;
+gap: 5em;
+}
+
+#menuimg {
+    margin-right: 70px;
+    display: flex;
+    gap: 2em;
+}
+
+#menuimg img{
+    
+    width: 2em;
+
+}
+
+#user{
+    width: 2.5em!important;
+}
+   
+
+#titi img{
+    width: 100%;
+    height: 59vh;
+}
+
+#liga{
+margin-top: 100px;
+margin-left: 60px;
+}
+
+#liga h3{
+   margin-top: 10px;
+}
+
+#liga h1{
+    font-size: 40px;
+}
+
+#Financeiros{
+    margin-left: 50px;
+    margin-top: 100px;
+    width: 643px;
+    height: 363px;
+    background-color: #ffffff;
+}
+
+#Financeiros h3{
+    padding-top: 30px;
+    text-align: center;
+    font-size: 23px;
+}
+
+#ct{
+    margin-top: -90px;
+    width: 400px;
+    margin-left: 50em;
+}
+
+#ca{
+    margin-top: 12em;
+    width: 400px;
+    margin-left: 49em;
+}
+
+
+
+    
+    #Recall{
+        margin-left: 50px;
+        margin-top: 200px;
+        width: 643px;
+        height: 263px;
+        background-color: #ffffff;
+    }
+    
+    #Recall h3{
+        padding-top: 30px;
+        text-align: center;
+        font-size: 23px;
+    }
+    
+    #cat{
+        margin-top: -90px;
+        width: 400px;
+        margin-left: 50em;
+    }
+    
+#Container1{
+    margin-left: 100px;
+}
+
+footer{
+    background-color: white;
+    height: 48vh;
+    margin-top: 100px;
+}
+
+.submenu{
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+}
+
+#tic{
+width:1047px;
+top: 40px;
+left: 300px;
+position: relative;
+background-color: rgb(255, 255, 255);
+}
+
+
+
+#tic img{
+    width: 291px;
+}
+
+#tic h3{
+    color: black;
+    margin-left: 20px ;
+}
+
+#fupfup img{
+    width: 35px;
+}
+
+#tiktik img{
+    width: 50px;
+}
+
+#tuktuk img{
+    width: 50px;
+
+}
+
+#tds{
+    width: 100px;
+    margin-top: 10px;
+    margin-left: 30px;
+    display: flex;
+}
+
+#detalhes {
+    margin-top: -205px;
+    margin-left: 32em;
+    display: grid;
+    grid-template-columns: 1fr 1fr ;
+   
+}
+
+#detalhes h3{  
+    margin-top: 8px;
+}
+
+
+#ibama{
+    margin-top: 200px;
+    background-color: #D9D9D9;
+    width: 100%;
+    height: 3.9em;
+}
+
+#ibama img{
+    margin-top: 5px;
+    margin-left: 60px;
+    width: 50px;
+}
+
+#ibama h3{
+    margin-left: 150px;
+    margin-top: -30px;
+}
+
+#Termos{
+    margin-left: 64em;
+    display: flex;
+}
+
+
